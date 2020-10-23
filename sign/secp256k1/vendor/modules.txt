@@ -1,0 +1,17 @@
+# github.com/btcsuite/btcd v0.21.0-beta
+## explicit
+github.com/btcsuite/btcd/btcec
+# github.com/ethereum/go-ethereum v1.9.23
+## explicit
+github.com/ethereum/go-ethereum/common
+github.com/ethereum/go-ethereum/common/hexutil
+github.com/ethereum/go-ethereum/common/math
+github.com/ethereum/go-ethereum/crypto
+github.com/ethereum/go-ethereum/crypto/secp256k1
+github.com/ethereum/go-ethereum/rlp
+# golang.org/x/crypto v0.0.0-20201016220609-9e8e0b390897
+## explicit
+golang.org/x/crypto/sha3
+# golang.org/x/sys v0.0.0-20201022201747-fb209a7c41cd
+## explicit
+golang.org/x/sys/cpu
